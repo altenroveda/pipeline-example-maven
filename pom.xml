@@ -420,7 +420,7 @@
 		<repository>
 			<id>spring-milestone</id>
 			<name>SpringSource Milestone Repository</name>
-			<url>https://repo.springsource.org/milestone</url>
+			<url>http://repo.springsource.org/milestone</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
